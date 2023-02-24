@@ -46,15 +46,18 @@
    <img src ="https://github.com/dndworkshop/tesla_hkmarket_research/blob/main/Slide14.PNG"></br>
    
    <h3>Quality of Infrastructure</h3>
-   <li>Number of Charging Port not enough for the driver </li>
+   <li>Number of Charging Port not enough for the driver compare to Gasoline stataion </li>
+    <img src ="https://github.com/dndworkshop/tesla_hkmarket_research/blob/main/Slide15.PNG">
    <li>Huge Difference on different type of Charing Port</li>
    <li>Lack of Quick Charging Port</li>
       <img src ="https://github.com/dndworkshop/tesla_hkmarket_research/blob/main/Slide16.PNG">
       <br>
-      
    
-   <img src ="https://github.com/dndworkshop/tesla_hkmarket_research/blob/main/Slide13.PNG">
-   <img src ="https://github.com/dndworkshop/tesla_hkmarket_research/blob/main/Slide13.PNG"></br>
+   <h2>Solution</h2>
+   <li>Focusing on Commercial Production</li>
+   <li>Associate with enough charging port</li>
+   
+   <img src ="https://github.com/dndworkshop/tesla_hkmarket_research/blob/main/Slide17.PNG"></br>
   
   
 
